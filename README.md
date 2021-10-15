@@ -1,0 +1,2 @@
+# pose-estimation-voice
+The goal of this project is to detect perfect human body posture. I have used mediapipe library to identify whether body posture is correct or not and used the pyttsx3 module to guide users with voice commands to accomplish perfect posture. We can expand this project to guide users for yoga and gym exercise. You can have a more clear idea about this project by looking at the video below.
